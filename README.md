@@ -5,5 +5,10 @@
 - [Hosted Webpage](https://chaitanyapopuri.github.io/chaitanya.github.io/)
 
 ## About
+  
 ## Recommended Tools
+
 ## Recommended Resources
+We can refer this site for learning basic programming languages
+-[w3 schools](https://www.w3schools.com/) <br>
+
