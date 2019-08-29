@@ -10,7 +10,7 @@
 ## Recommended Tools
 - [Visual Studio](https://code.visualstudio.com/)
 - [MarkDown](https://www.markdownguide.org/basic-syntax)
-- []()
+- [Tortoise Git](https://tortoisegit.org/)
 
 ## Recommended Resources
 We can refer this site for learning basic programming languages
