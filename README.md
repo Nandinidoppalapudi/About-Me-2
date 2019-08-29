@@ -1,7 +1,4 @@
 # About-Me
-<<<<<<< HEAD
-hi
-=======
 ## Repository Links
 
 - [Source Repository](https://github.com/chaitanyapopuri/About-Me)
