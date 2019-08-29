@@ -1,9 +1,9 @@
 # About-Me
 ## Repository Links
 
--[Source Repository](https://github.com/chaitanyapopuri/About-Me)
+- [Source Repository](https://github.com/chaitanyapopuri/About-Me)
 
--[Hosted Webpage](https://chaitanyapopuri.github.io/chaitanya.github.io/)
+- [Hosted Webpage](https://chaitanyapopuri.github.io/chaitanya.github.io/)
 
 ## About
   In this repository 
