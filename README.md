@@ -10,7 +10,7 @@
 ## Recommended Tools
 - [Visual Studio](https://code.visualstudio.com/)
 - [MarkDown](https://www.markdownguide.org/basic-syntax)
--[]()
+- []()
 
 ## Recommended Resources
 We can refer this site for learning basic programming languages
@@ -26,4 +26,3 @@ We can practise any type of coding here
 This is Chaitanya, It's my first semester of master's degree program at NorthWest Missouri State University in the field of Applied 
 Computer Science. <br>
 ![My Fav Pic](IMG_5413.jpg)
->>>>>>> bb8b3cc89140e7d8f398a7548f6cb34acfefea7f
