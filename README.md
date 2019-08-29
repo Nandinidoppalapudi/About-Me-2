@@ -8,8 +8,8 @@
 ## About
   In this repository 
 ## Recommended Tools
--[Visual Studio](https://code.visualstudio.com/)
--[MarkDown](https://www.markdownguide.org/basic-syntax)
+- [Visual Studio](https://code.visualstudio.com/)
+- [MarkDown](https://www.markdownguide.org/basic-syntax)
 -[]()
 
 ## Recommended Resources
