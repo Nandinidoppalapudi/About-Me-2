@@ -3,7 +3,7 @@
 
 - [Source Repository](https://github.com/chaitanyapopuri/About-Me)
 
-- [Hosted Webpage](https://chaitanyapopuri.github.io/chaitanya.github.io/)
+- [Hosted Webpage](https://github.com/chaitanyapopuri/About-Me)
 
 ## About
   In this repository 
