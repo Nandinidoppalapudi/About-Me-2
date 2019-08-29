@@ -5,7 +5,7 @@
 - [Hosted Webpage](https://chaitanyapopuri.github.io/chaitanya.github.io/)
 
 ## About
-  
+  In this repository 
 ## Recommended Tools
 -[Visual Studio](https://code.visualstudio.com/)
 -[MarkDown](https://www.markdownguide.org/basic-syntax)
@@ -13,7 +13,8 @@
 
 ## Recommended Resources
 We can refer this site for learning basic programming languages
--[w3 schools](https://www.w3schools.com/) <br>
+-[w3 schools](https://www.w3schools.com/) 
+
 If you want to publish a site using GitHub
 -[GitHub](https://github.com/)
 
